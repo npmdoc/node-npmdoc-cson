@@ -1,6 +1,6 @@
 # npmdoc-cson
 
-#### api documentation for  [cson (v4.1.0)](https://github.com/bevry/cson)  [![npm package](https://img.shields.io/npm/v/npmdoc-cson.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cson) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cson.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cson)
+#### basic api documentation for  [cson (v4.1.0)](https://github.com/bevry/cson)  [![npm package](https://img.shields.io/npm/v/npmdoc-cson.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cson) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cson.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cson)
 
 #### CoffeeScript-Object-Notation Parser. Same as JSON but for CoffeeScript objects.
 
